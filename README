@@ -1,0 +1,1 @@
+A viewer for the Julia Set. Features include zooming and the ability to set different c values to view different Julia Sets. Uses python 2.7 and pyglet, with a C extension for increased performance.
